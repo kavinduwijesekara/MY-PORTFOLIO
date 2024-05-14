@@ -1654,7 +1654,7 @@ div.gallery .item:hover img{
 }
 
 
-@media (max-width:400px) {
+@media (max-width:370px) {
   .hero-animate{
     font-size: 2.5rem;
   }
