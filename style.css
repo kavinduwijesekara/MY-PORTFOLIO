@@ -1652,3 +1652,31 @@ div.gallery .item:hover img{
     margin: 4px 0px 20px 0px;
   }
 }
+@media (max-width:350px) {
+  .hero-animate{
+    font-size: 2.5rem;
+  }
+  .hero-content .btn{
+    font-size: 14px;
+    padding: 11px 28px;
+  }
+  .boxx{
+    width: 250px;
+    height: 250px;
+  }
+  .features-banner > img{
+    max-width: 300px;
+  }
+  .right form .button-area button{
+    width: 150px!important;
+    height: 45px;
+    outline: none;
+    font-size: 15px;
+  }
+  .about .section-title{
+    margin-left:16% ;
+  }
+  .contact .contact-content .row .info{
+    margin-left: 10px;
+}
+}
